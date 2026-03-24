@@ -85,38 +85,6 @@ Future Improvements
  - Keep log of incorrect questions for later practice
  - Timer based system
 
-Screenshots
-- 
--Screenshot of Module ChemistryQuestions :
-<img width="1642" height="899" alt="Screenshot 2025-11-22 215607" src="https://github.com/user-attachments/assets/c734f099-ed85-46d9-957b-4f144b667623" />
-
-- Screenshot of the code (1)
-- <img width="1026" height="739" alt="Screenshot 2025-11-23 003144" src="https://github.com/user-attachments/assets/e9285634-d6e8-4210-8b47-33ad35f78f83" />
-
-- Screnshot of the code (2)
-<img width="1026" height="739" alt="Screenshot 2025-11-23 003144" src="https://github.com/user-attachments/assets/bf64aa6b-72c8-4a15-a5de-6a0b31984f21" />
-
-- Screenshot of the code (3)
-<img width="1851" height="889" alt="Screenshot 2025-11-23 003654" src="https://github.com/user-attachments/assets/422b767a-ca34-44bf-89ec-c3d9fb752644" />
-
-- Screenshot of the code (4)
-<img width="1826" height="711" alt="Screenshot 2025-11-23 003829" src="https://github.com/user-attachments/assets/a2edba09-4787-4c93-bde4-8a4ba64d18fb" />
-
-- Screenshot of the code (5=Main Part)
-<img width="940" height="879" alt="image" src="https://github.com/user-attachments/assets/bb1f4384-da95-4103-9882-76a97f941044" />
-
-- Input (MCQ):
-<img width="861" height="496" alt="image" src="https://github.com/user-attachments/assets/8fc9f940-510a-427a-8e73-e758335f24eb" />
-
-- Output (MCQ):
-- <img width="691" height="586" alt="image" src="https://github.com/user-attachments/assets/70649739-03fd-4b46-8d16-a6dbb526b00d" />
-
-- Input (Short answers):
-- <img width="794" height="458" alt="image" src="https://github.com/user-attachments/assets/d9858f41-5fdd-43f6-8aa7-5cf6fb1bc950" />
-- Output(Short answers):
-- <img width="629" height="306" alt="image" src="https://github.com/user-attachments/assets/bbf17d1f-cbf6-4536-b175-587012618ec7" />
-
-
   
 
 
